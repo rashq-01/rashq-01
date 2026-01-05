@@ -1,5 +1,6 @@
 # 💫 About Me:
-Full stack developer enthusiastic with expertise in DSA
+CSE Student | Problem Solver | Growing in DSA and Development | C++
+
 Problem-Solving (C++)
 
 ## 🌐 Socials:
