@@ -17,7 +17,7 @@ I’m a Computer Science student passionate about building scalable backend syst
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rashq-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rashq-01&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=rashq-01&theme=dark&hide_border=false&v=2)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rashq-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
